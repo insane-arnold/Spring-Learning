@@ -1,3 +1,5 @@
+# Loose coupling
+
 In this lesson we have same thing as in lesson1 but here we have created an interface Filter
 which is implemented by CollaborativeFilter and ContentBasedFilter.
 
